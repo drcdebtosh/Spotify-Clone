@@ -12,6 +12,8 @@ body{
 
 nav{
     font-family: 'Ubuntu', sans-serif;
+    cursor: pointer;
+    
 }
 
 nav ul{
